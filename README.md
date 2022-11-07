@@ -1,2 +1,2 @@
-# Powell Bilateral 1916 T & C Decoding
+# Powell Biliteral 1916 T & C Decoding
 
