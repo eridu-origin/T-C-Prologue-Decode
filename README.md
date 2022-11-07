@@ -1,2 +1,2 @@
-# Template-Match-1623.ipynb
-CV2 Template Match for Powell Bilateral Cipher Decoding
+# Powell Bilateral 1916 T & C Decoding
+
